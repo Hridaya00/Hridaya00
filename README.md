@@ -1,16 +1,35 @@
-## Hi there 👋
+# Developer • AI • ML
 
-<!--
-**Hridaya00/Hridaya00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
 
-Here are some ideas to get you started:
+I'm **Hridaya Raj Dahal**, an AI Engineering student and aspiring Software Engineer from Nepal 🇳🇵. I enjoy building software, exploring AI and machine learning, and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I currently working on?
+
+* 🤖 AI & Machine Learning
+* 💻 Software & Web Development
+* 🔗 Exploring Blockchain
+* 📚 Improving my programming and problem-solving skills
+
+### What tools do I use?
+
+`C` `Java` `Python` `HTML` `CSS` `MySQL` `Git` `VS Code`
+
+### Experience
+
+**IT Intern — PHRD Nepal**
+
+* Website development and maintenance
+* Public-health data dashboard
+* Digital initiatives and technical support
+
+### How to reach me?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/hridaya-raj-dahal/)
+* 📧 `dahalhriday918@gmail.com`
+
+### Currently
+
+**Learning → Building → Improving**
+
+📍 Bangalore, India
